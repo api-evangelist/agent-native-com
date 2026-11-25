@@ -66,7 +66,7 @@
 
 Agent-Native is an open-source framework for building applications where AI agents and user interfaces share a single state model. It provides a developer-friendly platform with built-in authentication, MCP protocol support, and a rich set of example apps. The framework is maintained by Builder.io and enables developers to create agentic apps, expose actions via a typed OpenAPI, and integrate with external AI services. Documentation, pricing, and support resources are publicly available.
 
-**Areas:** Company · AI · Agentic · Framework · Open-source · DeveloperTools
+**Areas:** Company · Artificial Intelligence · AI Agents · Framework · Open Source · Developer Tools
 
 ## agent-native-com on APIs.io
 
@@ -85,7 +85,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Agent Native Com Agentic Access](https://apis.io/agentic-access/agent-native-com/agent-native-com-agentic-access/)
+- [agent-native-com Agentic Access](https://apis.io/agentic-access/agent-native-com/agent-native-com-agentic-access/)
 
 #### JSON Schema (3)
 
@@ -105,7 +105,7 @@ Linked-data contexts for the provider's vocabulary.
 
 OpenAPI overlays, including conversational phrasing for each operation.
 
-- [Agent Native Com Openapi Overlay](https://apis.io/overlays/agent-native-com/agent-native-com-openapi-overlay/)
+- [agent-native-com Openapi Overlay](https://apis.io/overlays/agent-native-com/agent-native-com-openapi-overlay/)
 
 #### Governance rules (1)
 
@@ -117,14 +117,14 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agent Native Com Authentication](https://apis.io/security/agent-native-com/agent-native-com-authentication/)
-- [Agent Native Com Domain Security](https://apis.io/security/agent-native-com/agent-native-com-domain-security/)
+- [agent-native-com Authentication](https://apis.io/security/agent-native-com/agent-native-com-authentication/)
+- [agent-native-com Domain Security](https://apis.io/security/agent-native-com/agent-native-com-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Agent Native Com Plans Pricing](https://apis.io/plans/agent-native-com/agent-native-com-plans-pricing/)
+- [agent-native-com Plans Pricing](https://apis.io/plans/agent-native-com/agent-native-com-plans-pricing/)
 
 ## Where to find this API
 
@@ -142,28 +142,28 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 50.4** — developing · rubric 0.25.0 · scored 2026-10-29
+**Kin Score 47.3** — developing · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
-| Contract quality | 59.5 |
-| Contract governance | 70.9 |
-| Operational transparency | 5.3 |
+| Discoverability | 75.0 |
+| Contract quality | 62.6 |
+| Contract governance | 33.3 |
+| Operational transparency | 4.8 |
 | Developer ergonomics | 61.2 |
-| Access clarity | 31.6 |
+| Access clarity | 38.3 |
 
-**Agent readiness 46.4** — agent-ready (gated down from agent-native)
+**Agent readiness 51.4** — agent-ready (gated down from agent-native)
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | verified |
 | Auth Clarity | served (partial credit) |
 | Idempotency | — |
-| Error Semantics | derived (partial credit) |
+| Error Semantics | verified |
 | OpenAPI Examples | — |
 | Rate Limit Signal | — |
 | Event Surface Described | — |
@@ -178,8 +178,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | yes |
 
-**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agent-native-com/](https://apis.io/providers/agent-native-com/).
 
